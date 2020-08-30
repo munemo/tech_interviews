@@ -1,7 +1,7 @@
 class Car
-  puts 'do you want to change color?'
+  def initialize; end
 
-  def paint_car
-    car = { wheels: 4, speed: 100, color: 'yellow' }
-  end
+  def color(color)
+    @color = "red"
+ end
 end

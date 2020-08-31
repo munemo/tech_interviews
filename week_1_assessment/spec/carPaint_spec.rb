@@ -1,4 +1,4 @@
-require './Car/car.rb'
+require './lib/car.rb'
 require 'pry'
 
 describe Car do
